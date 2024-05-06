@@ -6,21 +6,51 @@
 
 }
 .texto-um{
-    text-align: left;
+   display: flex;   
 }
 
-.imagem{
-   width: 45%;
+.logo{
+   width: 300px;
 
 }
 .titulo{
-   width: 80%;
+   font-size: 30px;
+   color: rgb(255, 140, 0);
 }
 
 .icone{
-   width: 30px;
+   width: 30px;;
  
 }
 .cabecalho{
    background-color: darkgrey;
 }
+
+.ladinho{
+ align-items: center;
+
+}
+
+.yara{
+   width: 450px;
+}
+
+.adventure{
+ width: 1350px;
+
+}
+ .primeiro-paragrafo{
+    font-size: 20px;
+ }
+ .segundo-paragrafo{
+    font-size: 20px;
+ }
+
+ .abelha{
+    background-color: darkgrey;
+ }
+
+ .titulo-produtos{
+    font-size: 30px;
+    color: darkorange;
+ }

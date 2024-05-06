@@ -1,56 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
 
-.primeira-parte{
- background-color: darkgrey;
+.priemira-parte{
+   background-color: gray;
 
 }
 .texto-um{
-   display: flex;   
+    text-align: left;
 }
 
-.logo{
-   width: 300px;
+.imagem{
+   width: 45%;
 
 }
-.titulo{
-   font-size: 30px;
-   color: rgb(255, 140, 0);
-}
-
-.icone{
-   width: 30px;;
- 
-}
-.cabecalho{
-   background-color: darkgrey;
-}
-
-.ladinho{
- align-items: center;
-
-}
-
-.yara{
-   width: 450px;
-}
-
-.adventure{
- width: 1350px;
-
-}
- .primeiro-paragrafo{
-    font-size: 20px;
- }
- .segundo-paragrafo{
-    font-size: 20px;
- }
-
- .abelha{
-    background-color: darkgrey;
- }
-
- .titulo-produtos{
-    font-size: 30px;
-    color: darkorange;
- }

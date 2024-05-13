@@ -1,15 +1,84 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+ 
 
-
-.priemira-parte{
-   background-color: gray;
+.primeira-parte{
+ background-color: darkgrey;
 
 }
 .texto-um{
-    text-align: left;
+   display: flex;   
 }
 
-.imagem{
-   width: 45%;
+.logo{
+   width: 300px;
 
 }
+.titulo{
+   font-size: 40px;
+   color: rgb(255, 140, 0);
+   display: flex;
+   justify-content: center;
+   background-color: rgba(102, 93, 93, 0.267);
+}
+
+.icone{
+   width: 30px;
+  
+   
+}
+.cabecalho{
+   background-color: darkgrey;
+}
+
+.ladinho{
+ align-items: center;
+
+}
+
+.yara{
+   width: 250px;
+   
+}
+
+.adventure{
+ width: 1350px;
+
+}
+ .primeiro-paragrafo{
+    font-size: 20px;
+ }
+ .segundo-paragrafo{
+    font-size: 20px;
+ }
+
+ .abelha{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .titulo-produtos{
+    font-size: 30px;
+    color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(102, 93, 93, 0.267);
+ }
+
+ .titulo-observacoes{
+   background-color: rgba(102, 93, 93, 0.267);
+   color: darkorange;
+   font-size: 30px;
+   display: flex;
+   justify-content: space-around;
+ }
+
+ .formiga{
+   background-color: darkgrey;
+ }
+
+ .agradecemos{
+   display: flex;
+   justify-content: center;
+ }
